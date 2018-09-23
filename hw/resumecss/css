@@ -1,0 +1,62 @@
+body{
+  background-image: url('moon.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1{
+  color: white;
+}
+h2{
+  color: white;
+}
+address{
+  color: white;
+}
+p{
+  color: white;
+}
+ul{
+  color: white;
+}
+table{
+  color: white;
+}
+a{
+  color: white;
+  text-decoration: none;
+}
+a:hover{
+  font-weight: bold;
+  color:skyblue;
+}
+.maintitle{
+  font-family: 'PT Sans Narrow', sans-serif;
+}
+.hobbiefont{
+  font-family: 'Spirax', cursive;
+}
+.customlist{
+  color:white
+}
+.custombody{
+  font-family: 'Quicksand', sans-serif;
+}
+.customfont{
+  font-size: 25px;
+}
+#whiteborder{
+  border: 3px solid white;
+  height: 200px;
+  width: 200px;
+}
+#whiteborderr{
+  border: 3px solid white;
+  height: 80px;
+  width: 150px;
+}
+#whiteborderrr{
+  border: 3px solid white;
+  height: 250px;
+  width:250px;
+}
