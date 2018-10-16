@@ -1,5 +1,26 @@
 body{
-  <!--background-image: url('../images/bwg.jpg');-->
+  background-image: url('../images/background.jpeg');
   background-repeat: no-repeat;
   background-size: cover;
+}
+.wrapper{
+
+}
+header{
+  color: white;
+  background-color: #1f1647;
+}
+nav{
+  background-color: #1f1647;
+}
+.navlinks li{
+  color: white;
+}
+.navlinks a{
+  color: white;
+  text-decoration: none;
+}
+footer{
+  background-color: #1f1647;
+
 }

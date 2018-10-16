@@ -1,0 +1,12 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper{
+  display: block;
+  margin: auto;
+  padding: 20px;
+  width: 100%;
+  box-sizing: border-box;
+}
