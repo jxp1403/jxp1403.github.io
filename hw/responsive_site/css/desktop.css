@@ -1,6 +1,6 @@
 body{
   margin: 0;
-  padding: 0;
+  padding: 30px;
 }
 .wrapper{
   display: inline-block;
@@ -16,10 +16,14 @@ header{
   text-align: center;
   margin: 0;
   padding: 10px;
+  height: auto;
+  width: auto;
 }
 nav {
   margin: 0;
   padding: 0;
+  height: auto;
+  width: auto;
   display: block;
   text-align: center;
 }
@@ -34,8 +38,26 @@ nav {
   display: block;
   padding: 10px;
 }
+nav a:hover {
+   background-color: #ddd;
+   color: black;
+ }
 footer{
   display: block;
   text-align: center;
   padding: 10px;
+}
+.left{
+  display: inline-block;
+   vertical-align: top;
+   width: 47%;
+   box-sizing: content-box;
+   margin: 1%;
+}
+.right{
+  display: inline-block;
+   vertical-align: top;
+   width: 47%;
+   box-sizing: content-box;
+   margin: 1%;
 }

@@ -2,11 +2,42 @@ body{
   margin: 0;
   padding: 0;
 }
-
+header{
+  display: block;
+  text-align: center;
+  margin: 0;
+  padding: 10px;
+}
 .wrapper{
   display: block;
   margin: auto;
   padding: 20px;
   width: 100%;
   box-sizing: border-box;
+}
+nav {
+  margin: 0;
+  padding: 0;
+  display: block;
+  text-align: center;
+}
+.navlinks{
+  list-style-type: none;
+}
+.navlinks li{
+  display: block;
+}
+.navlinks a{
+  text-decoration: none;
+  display: block;
+  padding: 10px;
+}
+footer{
+  display: block;
+  text-align: center;
+  padding: 10px;
+}
+.left .right {
+  display: block;
+  width: 100%
 }
