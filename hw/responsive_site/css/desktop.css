@@ -1,6 +1,9 @@
 body{
-  margin: 0;
+  margin: 10;
+  margin-bottom: 0;
+  padding-bottom: 0
   padding: 30px;
+
 }
 .wrapper{
   display: inline-block;
@@ -17,13 +20,13 @@ header{
   margin: 0;
   padding: 10px;
   height: auto;
-  width: auto;
+  width: 100%;
 }
 nav {
-  margin: 0;
+  margin: 10;
   padding: 0;
   height: auto;
-  width: auto;
+  width: 100%;
   display: block;
   text-align: center;
 }
@@ -45,7 +48,7 @@ nav a:hover {
 footer{
   display: block;
   text-align: center;
-  padding: 10px;
+  padding: 5px;
 }
 .left{
   display: inline-block;
