@@ -50,14 +50,15 @@ footer{
 .left{
   display: inline-block;
    vertical-align: top;
-   width: 47%;
+   width: 50%;
    box-sizing: content-box;
    margin: 1%;
 }
 .right{
   display: inline-block;
    vertical-align: top;
-   width: 47%;
+   width: 40%;
    box-sizing: content-box;
    margin: 1%;
+   padding: 10px;
 }

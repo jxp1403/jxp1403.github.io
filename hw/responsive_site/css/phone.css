@@ -32,6 +32,10 @@ nav {
   display: block;
   padding: 10px;
 }
+nav a:hover {
+   background-color: #ddd;
+   color: black;
+ }
 footer{
   display: block;
   text-align: center;
