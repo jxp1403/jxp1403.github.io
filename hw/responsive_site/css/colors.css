@@ -15,9 +15,11 @@ nav{
 }
 .navlinks li{
   color: white;
+  font-family: 'Josefin Sans', sans-serif;
 }
 .navlinks a{
   color: white;
+  font-family: 'Josefin Sans', sans-serif;
   text-decoration: none;
 }
 footer{
@@ -28,12 +30,23 @@ ul li{
   display: block;
 }
 h1{
+  
   color: white;
+  font-family: 'Josefin Sans', sans-serif;
 }
 p{
   color: white;
+  font-family: 'Josefin Sans', sans-serif;
+
+}
+.left .lefti .leftii .leftiii .leftiv{
+  font-family: 'Josefin Sans', sans-serif;
 }
 .right{
+  font-family: 'Josefin Sans', sans-serif;
   color: white;
   background-color: #1f1647;
+}
+.righti .rightii .rightiii .rightiv{
+  font-family: 'Josefin Sans', sans-serif;
 }

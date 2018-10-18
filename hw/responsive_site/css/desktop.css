@@ -1,5 +1,5 @@
 body{
-  margin: 30;
+  margin: 40px;
   margin-bottom: 0;
   padding-bottom: 0
   padding: 30px;
@@ -64,4 +64,19 @@ footer{
    box-sizing: content-box;
    margin: 1%;
    padding: 10px;
+}
+.leftiv{
+  display: inline-block;
+   vertical-align: top;
+   width: 50%;
+   box-sizing: content-box;
+   margin: 1%;
+   padding-bottom: 5px;
+}
+.rightiv{
+  display: inline-block;
+   vertical-align: top;
+   width: 40%;
+   box-sizing: content-box;
+   margin: 1%;
 }
