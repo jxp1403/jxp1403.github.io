@@ -10,20 +10,21 @@ body{
   width: 100%;
   max-width: 1300px;
   min-height: 500px;
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
   box-sizing: border-box;
 }
 header{
   display: block;
   text-align: center;
   margin: 0;
+  margin-right:auto;
   padding: 10px;
   height: auto;
   width: 100%;
 }
 nav {
   margin: 10;
+  margin-right: auto;
   padding: 0;
   height: auto;
   width: 100%;
