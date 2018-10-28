@@ -6,11 +6,12 @@ body{
 
 }
 .wrapper{
-  display: inline-block;
+  display: block;
   width: 100%;
-  max-width: 1300px;
+  max-width: 1000px;
   min-height: 500px;
-  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
   box-sizing: border-box;
 }
 header{
@@ -23,10 +24,7 @@ header{
   width: 100%;
 }
 nav {
-  margin: 10;
-  margin-right: auto;
-  padding: 0;
-  height: auto;
+  margin:10;
   width: 100%;
   display: block;
   text-align: center;
