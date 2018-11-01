@@ -23,6 +23,7 @@ nav {
 }
 .navlinks{
   list-style-type: none;
+  padding: 0px;
 }
 .navlinks li{
   display: block;

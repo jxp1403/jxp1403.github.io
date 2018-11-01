@@ -1,5 +1,5 @@
 //Variable to track the number of steps
-var totalsteps = 3;
+var totalsteps = 5;
 
 //Variable to track which step should be displayed
 var currentstep = 0;
@@ -12,8 +12,8 @@ $('.totalsteps').html(totalsteps);
 
 //hide the total
 $('.steps li, .end, .controls, #prev').hide();
+$('.innerul li').show();
 });
-
 //click events
 $('#begin').on('click', function(){
 //do something here
