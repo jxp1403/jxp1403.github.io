@@ -27,6 +27,10 @@ h1 {
   text-align: center;
   margin: 20px auto;
 }
+a{
+  text-decoration: none;
+  color: black;
+}
 .steps {
   display: block;
   width: 640px;

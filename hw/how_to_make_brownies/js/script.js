@@ -61,4 +61,11 @@ $('#finish').on('click',function(){
   //Hide everything again
   $('.steps li, .controls, #prev').hide();
   $('.end').fadeIn(1000);
+  $('h1').html('Congratulations! Enjoy!');
+});
+$('#end').on('click', function(){
+  location.reload();
+});
+$('#top').on('click', function(){
+  location.reload();
 });
